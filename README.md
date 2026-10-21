@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**tutu020/tutu020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software development student from the Netherlands.
 
-Here are some ideas to get you started:
+I'm currently learning web development and working on projects to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use VS Code for coding, FileZilla to upload websites to a server, and Canva for design.
+
+### My tech stack
+- HTML
+- CSS
+- JavaScript (learning)
+- PHP
+
+### Tools I use
+- Visual Studio Code
+- FileZilla
+- Canva
+
+Feel free to check out my repositories!
