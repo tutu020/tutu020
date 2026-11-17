@@ -11,7 +11,7 @@ I use VS Code for coding, FileZilla to upload websites to a server, and Canva fo
 - HTML
 - CSS
 - JavaScript (learning)
-- PHP
+- PHP (learning)
 
 ### Tools I use
 - Visual Studio Code
