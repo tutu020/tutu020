@@ -1,7 +1,7 @@
 ## Hey there! 💨
 
 
-I'm a software development student from the Netherlands.
+I'm a software development student from the EU.
 
 I'm currently learning web development and working on projects to improve my skills.
 
